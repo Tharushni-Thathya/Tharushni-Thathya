@@ -1,7 +1,14 @@
-![MasterHead](https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all)
+<img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg" alt="MasterHead" height="200" width="1000">
+
 <h1 align="center">Hi 👋, I'm Tharushni Thathya</h1>
 <h3 align="center">Undergraduate at University of Moratuwa.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Competitive+Programmer;Passionate+about+innovative+IT+solutions">
+  </a>
+</p>
+
 
 
 
