@@ -1,11 +1,14 @@
 ![MasterHead](https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all)
-<h1 align="center">Hi 👋, I'm Tharushni</h1>
+<h1 align="center">Hi 👋, I'm Tharushni Thathya</h1>
 <h3 align="center">Undergraduate at University of Moratuwa.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tharushni-Thathya](https://github.com/Tharushni-Thathya)
 
+
+- 🤝 I’m looking for **Software Engineer Intern**
+- 👨‍💻 All of my projects are available at [https://github.com/Tharushni-Thathya](https://github.com/Tharushni-Thathya)
 - 📫 How to reach me **tharushni99@gmail.com , gamagettpd.20@uom.lk**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
